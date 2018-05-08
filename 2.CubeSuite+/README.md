@@ -8,11 +8,11 @@
 
 ### 问题集
 ##### 下载调试出现下面错误
-![](assets/2.CubeSuiteAssets/CSError下载调试.jpg)
+![](/assets/2.CubeSuiteAssets/CSError下载调试.jpg)
 
 解决方案
 * 工程配置
-![](/assets/rskrl78g13_faq_e2.jpg)
+![](/assets/2.CubeSuiteAssets/CSError下载调试1.jpg)
 
 * 引脚连接
     * 引脚连接是否错误
