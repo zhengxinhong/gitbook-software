@@ -9,3 +9,6 @@
 
 下载调试出现下面错误
 ![](/assets/rskrl78g13_faq_e1.jpg)
+
+
+![](/assets/rskrl78g13_faq_e2.jpg)
