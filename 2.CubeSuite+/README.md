@@ -8,7 +8,11 @@
 
 
 ### 如何支持中文注释
+(1)
 ![](/assets/2.CubeSuiteAssets/2]L88T$D0YNTYDE~%[10IJP.png)
+
+(2)
+![](/assets/2.CubeSuiteAssets/5{7WWFXGB%I1WVCNKVA[C$W.png)
 
 ### 问题集
 
