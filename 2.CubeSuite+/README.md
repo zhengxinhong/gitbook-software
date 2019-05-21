@@ -37,6 +37,8 @@ http://www.jingbei.com/xxpdf/CC78K0R%20Ver.1.00%20C%E7%BC%96%E8%AF%91%E5%99%A8%E
 
 https://update.renesas.cn/SSO/login
 
+https://update.renesas.cn/gur/licenseKeyListAdd.do
+
 
 
 
