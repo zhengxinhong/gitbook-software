@@ -32,6 +32,8 @@
 
 
 
+http://www.jingbei.com/xxpdf/CC78K0R%20Ver.1.00%20C%E7%BC%96%E8%AF%91%E5%99%A8%E6%93%8D%E4%BD%9C%E7%AF%87.pdf
+
 
 
 
