@@ -46,3 +46,11 @@ https://www2.renesas.cn/cn/zh/support/contact.html
 https://www2.renesas.cn/cn/zh/
 
 
+https://japan.renesasrulz.com/cafe_rene/f/forum18/4931/cs-forcc-rl78/27516#pi4368=100
+
+https://www.renesas.com/jp/ja/products/software-tools/evaluation-software-tools.html
+
+https://www.renesas.com/jp/ja/products/software-tools/tools/compiler-assembler/compiler-package-for-rl78-family.html
+
+https://www.renesas.com/jp/ja/products/software-tools/tools/ide/csplus.html#cspLicense
+
