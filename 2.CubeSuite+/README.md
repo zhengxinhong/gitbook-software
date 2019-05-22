@@ -54,3 +54,5 @@ https://www.renesas.com/jp/ja/products/software-tools/tools/compiler-assembler/c
 
 https://www.renesas.com/jp/ja/products/software-tools/tools/ide/csplus.html#cspLicense
 
+https://www2.renesas.cn/cn/zh/products/software-tools/tools/ide/csplus.html#designsupport
+
